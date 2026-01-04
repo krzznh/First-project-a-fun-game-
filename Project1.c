@@ -43,5 +43,5 @@ Tried this as a first fun project.
 Do let me know the feedback!
 
 Insta: @krzznh
-Mail: kc18042007@gmail.com
+Mail: krzznh@gmail.com
 */
